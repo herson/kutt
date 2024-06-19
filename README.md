@@ -1,3 +1,11 @@
+# tinyref.co
+
+`develop` - Upstream branch
+
+`main` - Our production
+
+`dev` - Our development branch
+
 <p align="center"><a href="https://kutt.it" title="kutt.it"><img src="https://raw.githubusercontent.com/thedevs-network/kutt/9d1c873897c3f5b9a1bd0c74dc5d23f2ed01f2ec/static/images/logo-github.png" alt="Kutt.it"></a></p>
 
 # Kutt.it
